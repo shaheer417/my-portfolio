@@ -5,7 +5,6 @@ import Services from "../Services/page";
 import Project from "../Project/page";
 import Skills from "../Skills/page";
 import Contact from "../Contact/page";
-import Link from "next/link";
 
 const Home = () => {
   return (
