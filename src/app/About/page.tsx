@@ -59,7 +59,7 @@ const About = () => {
           {/* 1st Stat */}
           <div>
             <Image
-              src="/images/customer.png"
+              src="/Images/customer.png"
               alt="image"
               width={80}
               height={80}
