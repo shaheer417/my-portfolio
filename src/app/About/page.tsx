@@ -75,7 +75,7 @@ const About = () => {
           {/* 2nd State */}
           <div>
             <Image
-              src="/images/experience.png"
+              src="/Images/experience.png"
               alt="image"
               width={80}
               height={80}
@@ -91,7 +91,7 @@ const About = () => {
           {/* 3rd Stat */}
           <div>
             <Image
-              src="/images/projects.png"
+              src="/Images/projects.png"
               alt="image"
               width={80}
               height={80}
@@ -106,7 +106,7 @@ const About = () => {
           </div>
           <div>
             <Image
-              src="/images/rocket.png"
+              src="/Images/rocket.png"
               alt="image"
               width={80}
               height={80}

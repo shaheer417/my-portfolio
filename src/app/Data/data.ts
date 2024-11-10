@@ -59,22 +59,22 @@ export const servicesData = [
 export const projectData = [
   {
     id: 1,
-    image: "/images/food app.jpg",
+    image: "/Images/food app.jpg",
     url: "https://food-order-m8rxmgz3n-shaheer-niazis-projects.vercel.app/",
   },
   {
     id: 2,
-    image: "/images/resume.png",
+    image: "/Images/resume.png",
     url: "https://dynamic-resume-fawn-three.vercel.app/",
   },
   {
     id: 3,
-    image: "/images/weather.png",
+    image: "/Images/weather.png",
     url: "https://weather-tan-one.vercel.app/",
   },
   {
     id: 4,
-    image: "/images/notes1.png",
+    image: "/Images/notes1.png",
     url: "https://notes-app-steel-three.vercel.app/",
   },
 ];
@@ -83,37 +83,37 @@ export const skillsData = [
   {
     id: 1,
     title: "React",
-    image: "/images/react.png",
+    image: "/Images/react.png",
     percent: "90%",
   },
   {
     id: 2,
     title: "CSS",
-    image: "/images/css.png",
+    image: "/Images/css.png",
     percent: "97%",
   },
   {
     id: 3,
     title: "JavaScript",
-    image: "/images/js.jpeg",
+    image: "/Images/js.jpeg",
     percent: "77%",
   },
   {
     id: 4,
     title: "TypeScript",
-    image: "/images/ts.jpeg",
+    image: "/Images/ts.jpeg",
     percent: "67%",
   },
   {
     id: 5,
     title: "Tailwind",
-    image: "/images/tailwind.jpeg",
+    image: "/Images/tailwind.jpeg",
     percent: "67%",
   },
   {
     id: 8,
     title: "Python",
-    image: "/images/python.png",
+    image: "/Images/python.png",
     percent: "55%",
   },
 ];
