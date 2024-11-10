@@ -39,20 +39,20 @@ export const servicesData = [
     title: "User Interfaces",
     description:
       "Engaging, responsive front-end designs for better user experiences.",
-    icon: "/images/UI.png",
+    icon: "/Images/UI.png",
   },
   {
     id: 5,
     title: " Web Applications",
     description: "Tailored web apps built with the latest technologies.",
-    icon: "/images/nextjs.png",
+    icon: "/Images/nextjs.png",
   },
 
   {
     id: 8,
     title: "Website Management",
     description: "Easy content management systems with flexible controls.",
-    icon: "/images/web.png",
+    icon: "/Images/web.png",
   },
 ];
 
